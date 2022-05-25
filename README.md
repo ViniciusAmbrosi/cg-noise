@@ -18,3 +18,7 @@ Criado intervalos variados de frequencia e persistência por oitavas.
 Referenciar imagens que começam com "exploracao".
 
 ## Biomas
+
+Dois biomas adicionados
+Bioma 1 - arquipelago montanhoso
+Bioma 2 - região arenosa com pouca agua
